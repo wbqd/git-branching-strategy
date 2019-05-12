@@ -4,3 +4,6 @@ a-feat-3
 b-feat-1
 b-feat-2
 b-feat-3
+c-feat-1
+c-feat-2
+c-feat-3
